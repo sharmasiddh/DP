@@ -1,1 +1,3 @@
-  
+Dynamic programming is an algorithmic process that computer engineers and programmers use to solve optimization problems. When integrating dynamic programming into a software development project, for instance, the algorithm that DP uses breaks down complex coding problems into subproblems. Programmers can then apply the optimized solution to the entire problem, depending on the type of solution they derive from each subproblem in the code.
+
+Furthermore, dynamic programming optimizes plain recursion with the recursive solutions programmers derive through the calculations of the problem's subproblems. This optimization process helps eliminate the need to re-compute input data later on when it's necessary for implementing new code into your project.  
